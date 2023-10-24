@@ -1,0 +1,59 @@
+[
+    {
+      "link": "https://www.indiehackers.com/product/nextiva",
+      "revenue": "$10,000,000",
+      "revenue_period": "month",
+      "revenue_explanation": "self-reported revenue",
+      "title": "Nextiva",
+      "tagline": "Everything a business needs to communicate",
+      "revenue_inner_page": "$10MM/mo",
+      "site_link": "https://www.nextiva.com/",
+      "tags": "['1,000+ Employees', 'Multiple Founders', \"Founders Don't Code\", 'Analytics', 'B2B', 'Communication', 'Productivity', 'SaaS']",
+      "founder_links": "{'https://www.indiehackers.com/TomasGorny?id=ShGa7pqI85cNf33q1FjHFOpYUhm2'}",
+      "scraped": "True",
+      "about": "Empowering businesses with access to essential communication tools is at the forefront of Nextiva’s mission to democratize technology and give businesses a competitive advantage.",
+      "twitter": "https://twitter.com/nextiva",
+      "visitors": "No Data",
+      "founders": "['Tomas Gorny']",
+      "isAlive": "true",
+      "grabbed_emails": ["vfax@nextiva.com"]
+    },
+    {
+      "link": "https://www.indiehackers.com/product/envato",
+      "revenue": "$8,000,000",
+      "revenue_period": "month",
+      "revenue_explanation": "self-reported revenue",
+      "title": "Envato",
+      "tagline": "A platform for getting creative projects done",
+      "revenue_inner_page": "$8MM/mo",
+      "site_link": "http://envato.com/",
+      "tags": "['500+ Employees', 'Multiple Founders', 'Founders Code', 'Marketplaces']",
+      "founder_links": "{'https://www.indiehackers.com/collis?id=SlAIs3HBdXPQVGtUzTeNKhP29ck1'}",
+      "scraped": "True",
+      "about": "Envato helps creatives earn a living online selling their products, skills and creativity. I work on it, because before starting Envato, I was (and still am!) a designer.",
+      "twitter": "https://twitter.com/envato",
+      "visitors": "No Data",
+      "founders": [
+        "Collis Ta'eed"
+      ],
+      "isAlive":"true",
+      "grabbed_emails":[]
+    },
+    {
+      "link": "https://www.indiehackers.com/product/boom-bucket",
+      "revenue": "$5,500,000",
+      "revenue_period": "month",
+      "revenue_explanation": "self-reported revenue",
+      "title": "BOOM & BUCKET",
+      "tagline": "Most Trusted Used Equipment Marketplace for Buyers & Sellers",
+      "revenue_inner_page": "$5.5MM/mo",
+      "site_link": "https://www.boomandbucket.com/",
+      "tags": "['10+ Employees', 'Multiple Founders', \"Founders Don't Code\", 'B2B', 'B2C', 'E-Commerce', 'Marketplaces', 'Sales']",
+      "founder_links": "{'https://www.indiehackers.com/BOOMANDBUCKET?id=IxFRfgTHyaR1Xds4ZURqfUNEOKK2'}",
+      "scraped": "True",
+      "about": "Boom & Bucket is changing the way people buy and sell used heavy equipment. Your trusted used equipment partner - Machines you need, prices you'll love.",
+      "twitter": "https://twitter.com/boomandbucket",
+      "visitors": "No Data",
+      "founders": "['BOOMANDBUCKET']"
+    }
+]
